@@ -12,6 +12,8 @@ func main() {
 
 	//Variables and data type
 	var isBool, isTrue bool = true, false
+	isBool = false
+	isTrue = true
 	fmt.Println("isBool:", isBool)
 	fmt.Println("isTrue:", isTrue)
 
