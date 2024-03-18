@@ -34,4 +34,9 @@ func main() {
 		sum++
 	}
 	fmt.Println("sum", sum)
+
+	//Day -1 Exercises:
+	fmt.Println("=========== Question 1 =========")
+
+	matrix := firstTasks.newMatrix(3, 3)
 }
